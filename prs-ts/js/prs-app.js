@@ -28,4 +28,5 @@ console.log("=======");
 for (let user of users) {
     console.log(user);
 }
+// create a vendor
 console.log("Bye");
